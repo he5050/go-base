@@ -17,7 +17,7 @@
 目录
 1. [GO安装与环境配置](https://github.com/he5050/go-base/blob/master/go-library/chapter_01_GO%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.md)
 
-2. [GO的基本数据结构]https://github.com/he5050/go-base/blob/master/go-library/chapter_02_GO%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%93%E6%9E%84.md
+2. [GO的基本数据结构](https://github.com/he5050/go-base/blob/master/go-library/chapter_02_GO%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%93%E6%9E%84.md)
 
 3. [Go基本数据类型与运算符](https://github.com/he5050/go-base/blob/master/go-library/chapter_03_GO%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%B8%8E%E8%BF%90%E7%AE%97%E7%AC%A6.md)
 
