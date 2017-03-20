@@ -12,9 +12,10 @@
 ### Go可以做些什么
 - 网络编程，开发Web应用、API应用等
 - 内存数据库，前一段时间Google开发的groupcache，couchbase的部分组建
-- 内存数据库，前一段时间Google开发的groupcache，couchbase的部分组建
+- 云平台，目前国外很多云平台在采用Go开发
 
-目录
+**目录**
+
 1. [GO安装与环境配置](https://github.com/he5050/go-base/blob/master/go-library/chapter_01_GO%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE.md)
 
 2. [GO的基本数据结构](https://github.com/he5050/go-base/blob/master/go-library/chapter_02_GO%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BB%93%E6%9E%84.md)
@@ -28,3 +29,21 @@
 6. [slice 切片](https://github.com/he5050/go-base/blob/master/go-library/chapter_06_GO%E7%9A%84slice.md)
 
 7. [map(集合)](https://github.com/he5050/go-base/blob/master/go-library/chapter_07_GO%E5%BD%93%E4%B8%AD%E7%9A%84map.md)
+
+8. [函数]()
+
+9. [defter]()
+
+10. [结构struct]()
+
+11. [方法method]()
+
+12. [接口interface]()
+
+13. [反射reflection]()
+
+14. [并发comcurrency]()
+
+15. [错误处理]()
+
+16. [自定义类型]()

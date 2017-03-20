@@ -66,4 +66,12 @@ func main() {
 	/*对s1进行排序*/
 	sort.Ints(s1)
 	fmt.Println(s1)
+	/*交换map的键与值*/
+	mis1 := map[int]string{1: "a", 5: "b", 4: "c", 3: "d", 2: "e"}
+	fmt.Println(mis1)
+	mis2 := make(map[string]int)
+	for k, v := range mis1 {
+		mis2[v] = k
+	}
+	fmt.Println(mis2)
 }
