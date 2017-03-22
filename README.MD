@@ -38,13 +38,13 @@
 
 11. [指针](https://github.com/he5050/go-base/blob/master/go-library/chapter_11_GO%E5%BD%93%E4%B8%AD%E7%9A%84%E6%8C%87%E9%92%88.md)
 
-12. [Range]()
+12. [Range](https://github.com/he5050/go-base/blob/master/go-library/chapter_12_GO%E7%9A%84Range.md)
 
-13. [方法method]()
+13. [方法method](https://github.com/he5050/go-base/blob/master/go-library/chapter_13_GO%E5%BD%93%E4%B8%AD%E7%9A%84method.md)
 
-14. [接口interface]()
+14. [接口interface](https://github.com/he5050/go-base/blob/master/go-library/chapter_14_GO%E5%BD%93%E4%B8%AD%E7%9A%84%E6%8E%A5%E5%8F%A3.md)
 
-15. [反射reflection]()
+15. [反射reflection](https://github.com/he5050/go-base/blob/master/go-library/chapter_15_GO%E7%9A%84%E5%8F%8D%E5%B0%84(reflect).md)
 
 16. [并发comcurrency]()
 
