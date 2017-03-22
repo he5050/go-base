@@ -30,20 +30,22 @@
 
 7. [map(集合)](https://github.com/he5050/go-base/blob/master/go-library/chapter_07_GO%E5%BD%93%E4%B8%AD%E7%9A%84map.md)
 
-8. [函数]()
+8. [函数](https://github.com/he5050/go-base/blob/master/go-library/chapter_08_GO%E7%9A%84%E5%87%BD%E6%95%B0.md)
 
-9. [defter]()
+9. [defter](https://github.com/he5050/go-base/blob/master/go-library/chapter_09_GO%E4%B8%AD%E7%9A%84defer.md)
 
 10. [结构struct]()
 
-11. [方法method]()
+11. [指针]()
 
-12. [接口interface]()
+12. [方法method]()
 
-13. [反射reflection]()
+13. [接口interface]()
 
-14. [并发comcurrency]()
+14. [反射reflection]()
 
-15. [错误处理]()
+15. [并发comcurrency]()
 
-16. [自定义类型]()
+16. [错误处理]()
+
+17. [自定义类型]()
