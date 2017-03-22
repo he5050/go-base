@@ -126,7 +126,7 @@ func B(per *person) {
 	fmt.Println("B", per)
 }
 ```
-8. 补充说明,关于类型的定义
+8. 补充说明为结构提供方法
 ```
 /*声明一个类型*/
 type Interger int
