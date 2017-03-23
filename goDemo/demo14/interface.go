@@ -54,6 +54,16 @@ func Disconnect2(usb interface{}) {
 		fmt.Println("发生了未知的错误!")
 	}
 }
+
+/*指针接口*/
+type USB1 interface {
+	P(*int)
+}
+type T int
+
+func (t T) P(age *int) {
+	fmt.Println("我带了指针了哦", age)
+}
 func main() {
 	ip := Phone{"iphone5"}
 	fmt.Println(ip)
@@ -68,4 +78,8 @@ func main() {
 
 	Disconnect1(ip)
 	Disconnect2(ip)
+	/*指针调用*/
+	var t T
+	k := 15
+	t.P(&k)
 }
